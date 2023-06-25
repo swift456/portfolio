@@ -16,10 +16,6 @@ enableRobotsTXT = true
 
     url = "/posts/"
     
-    # You can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
-
-    # You can add extra information after the name (HTML format is supported), such as icons
     post = ""
 
     # Display name
