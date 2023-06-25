@@ -15,8 +15,6 @@ enableRobotsTXT = true
     identifier = "posts"
 
     url = "/posts/"
-    
-    post = ""
 
     # Display name
     name = "Posts"
