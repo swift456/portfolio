@@ -27,7 +27,7 @@ enableRobotsTXT = true
     name = "Tags"
     url = "/tags/"
     weight = 3
-    pre = "<span data-feather='tags'></span>"
+    pre = "<span data-feather='tag'></span>"
     
   [[menu.main]]
     identifier = "projects"
