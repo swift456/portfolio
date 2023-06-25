@@ -1,6 +1,6 @@
 ---
 type: "post"
-title: "First_post"
+title: "First Post"
 date: 2023-06-24T21:41:39+01:00
 ---
 
