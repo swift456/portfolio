@@ -2,7 +2,7 @@
 type: "post"
 title: "V60 Pour-Over Technique (James Hoffman)"
 date: 2023-06-24T21:45:30+01:00
-tags: coffee, hobby, personal
+tags: [coffee, hobby, personal]
 ---
 # A Computer Science graduate with an interest in coffee, how original.
 
