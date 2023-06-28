@@ -17,7 +17,7 @@ enableRobotsTXT = true
     url = "/blog/"
 
     # Display name
-    name = "blog"
+    name = "Blog"
 
     # Weights are used to determine the ordering
     weight = 1
