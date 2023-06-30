@@ -1,6 +1,6 @@
 ---
 type: "post"
-title: "Degree Grade"
+title: "Completion of University"
 date: 2023-06-30T17:46:09+01:00
 tags: [personal, meta]
 ---
