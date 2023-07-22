@@ -2,7 +2,7 @@
 type: "post"
 title: "Completion of University"
 date: 2023-06-30T17:46:09+01:00
-tags: [personal, meta]
+tags: [personal,professional]
 ---
 
 # My Degree Classification
